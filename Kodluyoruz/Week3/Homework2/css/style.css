@@ -1,0 +1,32 @@
+.vcenter {
+    display: flex;
+    justify-content:center; /*  making content center; */
+    align-items:center; /* vertical align to middle of div */
+    text-align: center;
+}
+
+.btn1 {
+    float: left;
+    margin: 5px 10px 5px 12%;
+    
+}
+
+.btn2 {
+    float: left;
+    margin: 5px 0 5px 0;
+    
+}
+
+.bg-grey {
+    background-color: #EEEEEE;
+  
+}
+
+.padding {
+    padding: 1% 20px;
+} 
+
+.bg-green {
+    background-color: #7EE5DA;
+    
+}
