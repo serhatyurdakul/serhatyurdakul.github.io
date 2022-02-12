@@ -17,8 +17,14 @@
   float: right;
 }
 
+/* set icons colors  */
 .headerli a:hover {
   text-decoration: underline;
+}
+
+
+.material-icons {
+  color: gray;
 }
 
 .container {
